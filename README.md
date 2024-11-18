@@ -1105,10 +1105,11 @@ lcxClient.subscribeTrades((data) => {
 
 ## Support
 
-Open an [issue]!
+Open an [issue][2]!
 
 ## License
 
 [MIT]
 
 [1]: https://docs.lcx.com/
+[2]: https://github.com/LCX-AG/lcx-sdk-js/issues
