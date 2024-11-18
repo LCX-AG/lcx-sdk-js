@@ -1,0 +1,15 @@
+import { OrderBookPayload, MarketKlinePayload, TradesPayload, MarketPairPayload, MarketTickerPayload, OrderCreatePayload, OrderModifyPayload, OrderCancelPayload, OrderCancelAllPayload, OpenOrdersPayload, OrderDetailsPayload, OrderHistoryPayload, TradeHistoryPayload, CoinBalanceDetailsPayload } from './types';
+export declare function validateOrderBookPayload(payload: OrderBookPayload): void;
+export declare function validateMarketKlinePayload(payload: MarketKlinePayload): void;
+export declare function validateTradesPayload(payload: TradesPayload): void;
+export declare function validateMarketPairPayload(payload: MarketPairPayload): void;
+export declare function validateMarketTickerPayload(payload: MarketTickerPayload): void;
+export declare function validateOrderCreatePayload(payload: OrderCreatePayload): void;
+export declare function validateOrderModifyPayload(payload: OrderModifyPayload): void;
+export declare function validateOrderCancelPayload(payload: OrderCancelPayload): void;
+export declare function validateOrderCancelAllPayload(payload: OrderCancelAllPayload): void;
+export declare function validateOpenOrdersPayload(payload: OpenOrdersPayload): void;
+export declare function validateOrderDetailsPayload(payload: OrderDetailsPayload): void;
+export declare function validateOrderHistoryPayload(payload: OrderHistoryPayload): void;
+export declare function validateTradeHistoryPayload(payload: TradeHistoryPayload): void;
+export declare function validateCoinBalanceDetailsPayload(payload: CoinBalanceDetailsPayload): void;
