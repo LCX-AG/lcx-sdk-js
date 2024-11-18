@@ -13,7 +13,7 @@ The official Node.js client library for the [LCX Exchange API][1].
     - [Getting started](#getting-started)
   - [Error Handling](#error-handling)
   - [API Function Reference](#api-function-reference)
-    - [orderBookDetailsGet](#orderbookdetailsget)
+    - Order Book Details [REST](#orderbookdetailsget)
       - [Parameters](#parameters)
       - [Returns](#returns)
       - [Example](#example)
